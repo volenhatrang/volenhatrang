@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vo Le Nha Trang</h1>
 <h3 align="center">A final year student majoring in Information Systems at the University of Information Technology, Vietnam National University Ho Chi Minh City</h3>
 
-- 🔭 I’m currently working on **Python, SQL**
+- 🔭 I’m currently working on **PHP, ReactJS, Python, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
